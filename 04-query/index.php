@@ -14,7 +14,7 @@
             [2] => string(31) "PHP course at the Schoof Of Net"
         }
     }
- * Os dados retornam no formato de array com índice associativo e numérico
+ * Os dados retornam no formato de array com Ã­ndice associativo e numÃ©rico
  */
 
 try {
